@@ -1,0 +1,17 @@
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000002016A2ABD30>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path C:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 8)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path C:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
