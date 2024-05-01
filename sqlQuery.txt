@@ -1,0 +1,1 @@
+Select Sales.customer_id,Customers.age,Items.item_name,sum(Orders.quantity) as quantity from Sales inner join Orders on Orders.sales_id = Sales.sales_id inner join Customers on Customers.customer_id = Sales.customer_id inner join Items on Items.item_id = Orders.item_id where Customers.age between 18 and 35 and quantity > 0 Group by Sales.customer_id,Items.item_id
