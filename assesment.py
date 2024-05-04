@@ -73,7 +73,9 @@ try:
             'quantity_y':'Quantity'
             
         },inplace=True)
-        logging.info(f'Colun Renemed :: {pandasDF.columns}')
+        logging.info(f'Column Renemed :: {pandasDF.columns}')
+        pandasDF['Quantity'] = pandasDF['Quantity'].astype(int)
+        logging.info(f'Quantity Column type changed to int')
         pandasDF.to_csv('pandasData.csv',sep=";",index=False)
         logging.info(f'CSV File Creaded as pandasData.csv in path {os.getcwd()}')
         connector.close()
