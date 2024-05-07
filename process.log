@@ -15,3 +15,498 @@ INFO:root:Columns Filtered :: (1137, 4)
 INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
 INFO:root:CSV File Creaded as pandasData.csv in path C:\Users\lenovo\Desktop\NGOWebsite
 INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000001954AED5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 8)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x0000020FFB745D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 8)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000001DA92595D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 8)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x00000165F6955D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 8)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x0000012568A55D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 8)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x00000232C3CF5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 8)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000001F4B5765D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 8)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x00000211F55C5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (2253, 8)
+INFO:root:Columns Filtered :: (2253, 4)
+ERROR:root:Unable to perform Panda Operations : Cannot convert non-finite values (NA or inf) to integer
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x0000029FCAFC5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 8)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000001B3A8815D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 8)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x00000249367F5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 8)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000001CA6B8C5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+ERROR:root:Unable to perform Panda Operations : columns overlap but no suffix specified: Index(['sales_id', 'customer_id', 'order_id', 'item_id', 'age', 'item_name'], dtype='object')
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000001B0224B5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 15)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x00000137A3BC5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (1137, 15)
+INFO:root:Columns Filtered :: (1137, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x0000024F0B615D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (70, 8)
+ERROR:root:Unable to perform Panda Operations : "['quantity_y'] not in index"
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x00000185E5D55D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (70, 8)
+INFO:root:Columns Filtered :: (70, 4)
+ERROR:root:Unable to perform Panda Operations : Cannot convert non-finite values (NA or inf) to integer
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000002328E175D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (70, 8)
+INFO:root:Columns Filtered :: (70, 4)
+ERROR:root:Unable to perform Panda Operations : Cannot convert non-finite values (NA or inf) to integer
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x0000024132695D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (70, 8)
+INFO:root:Columns Filtered :: (70, 4)
+ERROR:root:Unable to perform Panda Operations : Cannot convert non-finite values (NA or inf) to integer
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x0000017DAD795D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (70, 8)
+INFO:root:Columns Filtered :: (70, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000001F7039F5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (70, 8)
+INFO:root:Columns Filtered :: (70, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000001D169465D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (70, 8)
+INFO:root:Columns Filtered :: (70, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000001B212EF5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (70, 10)
+INFO:root:Columns Filtered :: (70, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x00000205915D5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+ERROR:root:Unable to perform Panda Operations : ''
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000001F521C65D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+ERROR:root:Unable to perform Panda Operations : ''
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x0000024FDC8D5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (70, 5)
+ERROR:root:Unable to perform Panda Operations : "['quantity_r'] not in index"
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000002888B5C5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (70, 5)
+ERROR:root:Unable to perform Panda Operations : "['quantity_r'] not in index"
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000001775A615D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (70, 5)
+ERROR:root:Unable to perform Panda Operations : "['quantity_r'] not in index"
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x0000020D5DF55D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (70, 5)
+ERROR:root:Unable to perform Panda Operations : "['quantity_r'] not in index"
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x0000022079225D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (67, 5)
+ERROR:root:Unable to perform Panda Operations : "['quantity_r'] not in index"
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x0000013C49555D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Merge Completed with Main DF :: (67, 6)
+ERROR:root:Unable to perform Panda Operations : "['quantity_r'] not in index"
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x0000015E17A25D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Columns Filtered :: (70, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed
+INFO:root:Connection Established :: <sqlite3.Connection object at 0x000001C1222E5D50>
+INFO:root:Tablee details :: ['sqlite_sequence', 'sales', 'orders', 'items', 'customers']
+INFO:root:SQL Query Executed
+INFO:root:file saved as sqlData.csv at path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Data fatched items :: (3, 2)
+INFO:root:Data fatched customers :: (100, 2)
+INFO:root:Data fatched sales :: (500, 2)
+INFO:root:Data fatched orders :: (1500, 4)
+INFO:root:Merge Completed :: (1500, 7)
+INFO:root:Age Filter Applied :: (384, 7)
+INFO:root:Group Created :: (72, 1)
+INFO:root:Zero values Removed :: (70, 1)
+INFO:root:Columns Filtered :: (70, 4)
+INFO:root:Colun Renemed :: Index(['Customer', 'Age', 'Item', 'Quantity'], dtype='object')
+INFO:root:CSV File Creaded as pandasData.csv in path c:\Users\lenovo\Desktop\NGOWebsite
+INFO:root:Connection Closed

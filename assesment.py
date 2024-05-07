@@ -49,33 +49,43 @@ try:
         pandasDF = ((sales.merge(orders,how='inner',on='sales_id')).merge(customers,how='inner',on='customer_id')).merge(items,how='inner',on='item_id')
         print(pandasDF)
         logging.info(f'Merge Completed :: {pandasDF.shape}')
-        pandasDFMain = pandasDF
 
         print(pandasDF.columns)
 
         pandasDF = pandasDF[(pandasDF['age'] >= 18) & (pandasDF['age'] <= 35)]
+        
         logging.info(f'Age Filter Applied :: {pandasDF.shape}')
 
-        pandasDF = pandasDF.groupby(['customer_id','item_name']).agg({'quantity':'sum'})
+        pandasDF = pandasDF.groupby(['customer_id','age','item_name']).agg({'quantity':'sum'})
         logging.info(f'Group Created :: {pandasDF.shape}')
+        print(pandasDF)
         pandasDF = pandasDF[(pandasDF['quantity']!=0)]
         logging.info(f'Zero values Removed :: {pandasDF.shape}')
+        pandasDF = pandasDF.reset_index()
+        print("New :: ",pandasDF)
 
-        pandasDF = pandasDFMain.merge(pandasDF,how='right',on='customer_id')
-        logging.info(f'Merge Completed with Main DF :: {pandasDF.shape}')
+        #pandasDF = pandasDFMain.merge(pandasDF,how='right',on='customer_id')
+        #pandasDF=pandasDF.join(customers,on='customer_id',how='inner',rsuffix="_r")
+        #print("New Merged DF \n",pandasDF)
+        #logging.info(f'Merge Completed with Main DF :: {pandasDF.shape}')
         print(pandasDF.columns)
-        pandasDF = pandasDF[['customer_id','age','item_name','quantity_y']]
+        #pandasDF = pandasDF[['customer_id','age','item_name','quantity_r']]
         logging.info(f'Columns Filtered :: {pandasDF.shape}')
         pandasDF.rename(columns={
             'customer_id':'Customer',
             'age':'Age',
             'item_name':'Item',
-            'quantity_y':'Quantity'
+            'quantity':'Quantity'
             
         },inplace=True)
-        logging.info(f'Column Renemed :: {pandasDF.columns}')
+        print(pandasDF.columns)
+        #pandasDF['Quantity']=pandasDF['Quantity'].fillna(0)
+        #print(pandasDF['Quantity'].to_list())
+        
         pandasDF['Quantity'] = pandasDF['Quantity'].astype(int)
-        logging.info(f'Quantity Column type changed to int')
+        pandasDF = pandasDF[(pandasDF['Quantity']!=0)]
+        
+        logging.info(f'Colun Renemed :: {pandasDF.columns}')
         pandasDF.to_csv('pandasData.csv',sep=";",index=False)
         logging.info(f'CSV File Creaded as pandasData.csv in path {os.getcwd()}')
         connector.close()
